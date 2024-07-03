@@ -1,3 +1,6 @@
+// Arduino Code for following white line using IR sensor
+// And initiating server motor to unload cargo up commpleting the track
+
 #include <Servo.h>
 
 #define in1 12
